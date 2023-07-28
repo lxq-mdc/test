@@ -1,0 +1,19 @@
+{
+  "name": "b-module",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zl-mdc <1424084297@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/b-module.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/b-module.test.js"
+  }
+}
